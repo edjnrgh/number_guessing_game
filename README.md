@@ -10,3 +10,5 @@ A simple game where you guess a number between 1 and 100.
 
 ## Built with 
 HTML, CSS and Javascript
+
+[Play the game here](https://edjnrgh.github.io/number_guessing_game/)
